@@ -22,7 +22,7 @@ Looking for a challenging job in the backend or frontend world.
 
 <br>
 - 📫 How to reach me:
-<a href="mailto:s97414h@gmail.com">h0533185978@gmail.com</a>
+<a href="mailto:s97414h@gmail.com">s97414h@gmail.com</a>
 
 
 
