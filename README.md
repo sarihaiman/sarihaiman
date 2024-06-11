@@ -58,13 +58,5 @@ Looking for a challenging job in the backend or frontend world.
 <img width="40" src="https://camo.githubusercontent.com/6637b1245394712163af677b982c1df9d62c3c513385a770d3d2f7ccd05e1f1a/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f36323039313631332f3236313339353533322d62343038393265662d656662382d346230652d613662352d6431636663326633666333352e706e67" alt="vite" title="vite"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="selemium" title="selemium"/>
 
-
-
-</div>
-<div>
-              <img src="[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://github-readme-stats.vercel.app/api?username=HadassaAvimor&show_icons=true%29]%28https://github.com/anuraghazra/github-readme-stats
-)https://github-readme-stats.vercel.app/api?username=HadassaAvimor&show_icons=true%29]%28https://github.com/anuraghazra/github-readme-stats
-" />&nbsp;
-
 </div>
 
